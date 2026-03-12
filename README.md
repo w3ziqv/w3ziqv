@@ -1,16 +1,23 @@
-## Hi there 👋
+# Mateusz Szostak
 
-<!--
-**w3ziqv/w3ziqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student. Developer. Learner.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things to understand them.
+Currently exploring web development — from weather apps to clean interfaces.
+
+**Stack:** HTML · CSS · JavaScript · TypeScript  
+**Focus:** Learning by doing. Shipping real projects.
+
+---
+
+### Projects
+
+- [Weather App](https://github.com/w3ziqv/Weather-app) — live weather data, clean UI
+- [Simple Proxy](https://github.com/w3ziqv/simple-proxy) — lightweight TypeScript proxy
+- [BarberSP156](https://github.com/w3ziqv/BarberSP156) — static business site
+
+---
+
+Kraków, PL · Student · Open to learning
