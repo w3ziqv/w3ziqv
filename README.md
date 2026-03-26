@@ -1,14 +1,13 @@
 # Mateusz Szostak
 
-Student. Developer. Learner.
+Student. Learner.
 
 ---
 
 I build things to understand them.
 Currently exploring web development — from weather apps to clean interfaces.
 
-**Stack:** HTML · CSS · JavaScript · 
-**Focus:** Learning by doing. Shipping real projects.
+· HTML · CSS · JavaScript · 
 
 ---
 
