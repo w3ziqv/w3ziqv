@@ -14,7 +14,7 @@ Currently exploring web development — from weather apps to clean interfaces.
 ### Projects
 
 - [Weather App](https://github.com/w3ziqv/Weather-app) — live weather data, clean UI
-- [Geometira nieskończonośći] (https://github.com/w3ziqv/geometria-nieskonczonosci/) — AGH "Zobaczyć matematykę" project
+- [Geometira nieskończonośći](https://github.com/w3ziqv/geometria-nieskonczonosci/) — AGH "Zobaczyć matematykę" project
 
 ---
 
