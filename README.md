@@ -21,6 +21,10 @@ Educational site on fractal geometry — Mandelbrot set, interactive Julia sets 
 **2nd prize** — national *See Mathematics* competition (AGH).  
 → [Live demo](https://geometria-nieskonczonosci.vercel.app/)
 
+### [Focus Flow](https://github.com/w3ziqv/focus-flow)
+Minimalist Pomodoro timer with focus mode, weekly statistics, ambient sounds (rain/pink noise), and study tips.  
+→ [Live demo](https://focus-flow-self-ten.vercel.app/)
+
 ---
 
 Currently exploring web development. Open to learning, feedback, and collaboration.
