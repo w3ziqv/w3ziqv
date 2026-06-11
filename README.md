@@ -1,8 +1,10 @@
 # Mateusz Szostak
 
-**First-year high school student** · Kraków, Poland
+**Developer** · Kraków, Poland
 
 I build small web projects to understand how they work — from weather apps to interactive math visualizations.
+
+🏆 **2nd prize** — national *See Mathematics* competition (AGH)
 
 **HTML · CSS · JavaScript · Python**
 
@@ -27,4 +29,4 @@ Minimalist Pomodoro timer with focus mode, weekly statistics, ambient sounds (ra
 
 ---
 
-Currently exploring web development. Open to learning, feedback, and collaboration.
+Currently learning: **Swift**
