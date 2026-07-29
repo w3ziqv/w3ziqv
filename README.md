@@ -22,8 +22,6 @@ I build things to understand how they work.
 
 **[Focus Flow](https://github.com/w3ziqv/focus-flow)** — Minimalist Pomodoro timer with ambient sounds. [Live](https://focus-flow-self-ten.vercel.app/)
 
-**[Swift Task Tracker](https://github.com/w3ziqv/swift-task-tracker-cli)** — CLI task manager written in Swift.
-
 ---
 
 ## Stack
