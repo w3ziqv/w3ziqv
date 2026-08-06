@@ -32,4 +32,4 @@ I build things to understand how they work.
 
 ## Links
 
-[Portfolio]([https://portfolio.mateusz-szostak1.workers.dev/]) · [GitHub](https://github.com/w3ziqv) · [Email](mailto:mateusz.szostak1@proton.me)
+[Portfolio]((https://portfolio.mateusz-szostak1.workers.dev/)) · [GitHub](https://github.com/w3ziqv) · [Email](mailto:mateusz.szostak1@proton.me)
