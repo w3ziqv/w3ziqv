@@ -14,7 +14,7 @@ I build things to understand how they work.
 
 ## Projects
 
-**[GitScore](https://github.com/w3ziqv/gitscore)** — GitHub profile analyzer with gamification and roast mode. [Live](https://gitscore-mu.vercel.app/)
+**[GitScore](https://github.com/w3ziqv/gitscore)** — GitHub profile analyzer with gamification and roast mode. [Live](gitscore.mateusz-szostak1.workers.dev)
 
 **[Geometria Nieskończoności](https://github.com/w3ziqv/geometria-nieskonczonosci)** — Interactive fractal geometry site. Won 2nd place at AGH. [Live](https://geometria-nieskonczonosci.vercel.app/)
 
