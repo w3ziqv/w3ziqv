@@ -26,7 +26,7 @@ I build things to understand how they work.
 
 ## Stack
 
-`React` `TypeScript` `Node.js` `Express` `Python` `Swift` `html` `css` `Javascript` `Vercel` `sqlite`  
+`React` `TypeScript` `Node.js` `Express` `Python` `html` `css` `Javascript` `Vercel` `sqlite`  
 
 ---
 
