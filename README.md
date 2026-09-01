@@ -1,35 +1,29 @@
-# Mateusz Szostak
+### about
 
-> 16 · Kraków, Poland
+high school student & developer from kraków, poland. building clean web apps, interactive visuals, and developer tooling. 2nd place winner at agh university's **"zobaczyć matematykę"** competition. creator of [focus flow](https://github.com/w3ziqv/focus-flow) and [keyblock](https://github.com/w3ziqv/keyblock).
 
-I build things to understand how they work.
-
----
-
-## Award
-
-**🥈 2nd place** — *"Zobaczyć Matematykę"* national mathematics competition, organised by **AGH** (Akademia Górniczo-Hutnicza w Krakowie)
+🌐 [portfolio](https://portfolio.mateusz-szostak1.workers.dev) • ✉️ [mateusz.szostak1@proton.me](mailto:mateusz.szostak1@proton.me) • 𝕏 [@w3ziqv](https://x.com/w3ziqv)
 
 ---
 
-## Projects
+### core skills
 
-**[GitScore](https://github.com/w3ziqv/gitscore)** — GitHub profile analyzer with gamification and roast mode. [Live](gitscore.mateusz-szostak1.workers.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,python,html,css,tailwind,vite,astro,nodejs,postgres,sqlite,git,docker,linux" />
+  </a>
+</p>
 
-**[Geometria Nieskończoności](https://github.com/w3ziqv/geometria-nieskonczonosci)** — Interactive fractal geometry site. Won 2nd place at AGH. [Live](https://geometria-nieskonczonosci.vercel.app/)
-
-**[Weather App](https://github.com/w3ziqv/Weather-app)** — TypeScript weather app with PWA support. [Live](https://weather-app-five-taupe-24.vercel.app/)
-
-**[Focus Flow](https://github.com/w3ziqv/focus-flow)** — Minimalist Pomodoro timer with ambient sounds. [Live](https://focus-flow-self-ten.vercel.app/)
-
----
-
-## Stack
-
-`React` `TypeScript` `Node.js` `Express` `Python` `html` `css` `Javascript` `Vercel` `sqlite`  
+- **languages:** typescript • javascript • python • html • css • sql
+- **frontend & ui:** React 19 • Astro • Tailwind CSS • Canvas API • Web Audio API • PWA
+- **backend & cloud:** Node.js • Cloudflare Workers • REST APIs
+- **databases:** PostgreSQL • SQLite
+- **tools & devops:** Git • Docker • Linux • Vite • Antigravity • VS Code • Vitest
 
 ---
 
-## Links
+### featured projects & achievements
 
-[Portfolio](https://portfolio.mateusz-szostak1.workers.dev) · [GitHub](https://github.com/w3ziqv) · [Email](mailto:mateusz.szostak1@proton.me)
+- 🏆 **AGH "Zobaczyć Matematykę" (2nd Place)** — interactive fractal visualization (Mandelbrot & Julia sets) on HTML5 Canvas in plain JavaScript. ([repo](https://github.com/w3ziqv/geometria-nieskonczonosci) / [live](https://geometria-nieskonczonosci.vercel.app/))
+- ⏱️ **[Focus Flow](https://github.com/w3ziqv/focus-flow)** — minimal Pomodoro timer with ambient soundscapes & zero-drift countdown; offline-first installable PWA. ([live](https://focus-flow-self-ten.vercel.app/))
+- 🔒 **[Keyblock](https://github.com/w3ziqv/keyblock)** — zero-dependency pre-commit hook that prevents accidental API key and secret leaks.
