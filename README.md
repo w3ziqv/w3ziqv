@@ -25,4 +25,4 @@ high school student & developer from kraków, poland. building clean web apps, i
 ### featured projects & achievements
 
 - 🏆 **AGH "Zobaczyć Matematykę" (2nd Place)** - interactive fractal visualization (Mandelbrot & Julia sets) on HTML5 Canvas in plain JavaScript. ([repo](https://github.com/w3ziqv/geometria-nieskonczonosci) / [live](https://geometria-nieskonczonosci.vercel.app/))
-- ⏱️ **[Focus Flow](https://github.com/w3ziqv/focus-flow)** — minimal Pomodoro timer with ambient soundscapes & zero-drift countdown; offline-first installable PWA. ([live](https://focus-flow-self-ten.vercel.app/))
+- ⏱️ **[Focus Flow](https://github.com/w3ziqv/focus-flow)** - minimal Pomodoro timer with ambient soundscapes & zero-drift countdown; offline-first installable PWA. ([live](https://focus-flow-self-ten.vercel.app/))
