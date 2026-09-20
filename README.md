@@ -2,7 +2,7 @@
 
 high school student & developer from kraków, poland. building clean web apps, interactive visuals, and developer tooling. 2nd place winner at agh university's **"zobaczyć matematykę"** competition. creator of [focus flow](https://github.com/w3ziqv/focus-flow).
 
-🌐 [portfolio](mateuszszostak.online) • ✉️ [mateusz.szostak1@proton.me](mailto:mateusz.szostak1@proton.me)
+🌐 [portfolio](https://mateuszszostak.online/) • ✉️ [mateusz.szostak1@proton.me](mailto:mateusz.szostak1@proton.me)
 
 ---
 
