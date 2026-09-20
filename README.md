@@ -2,7 +2,7 @@
 
 high school student & developer from kraków, poland. building clean web apps, interactive visuals, and developer tooling. 2nd place winner at agh university's **"zobaczyć matematykę"** competition. creator of [focus flow](https://github.com/w3ziqv/focus-flow).
 
-🌐 [portfolio](https://portfolio.mateusz-szostak1.workers.dev) • ✉️ [mateusz.szostak1@proton.me](mailto:mateusz.szostak1@proton.me)
+🌐 [portfolio](mateuszszostak.online) • ✉️ [mateusz.szostak1@proton.me](mailto:mateusz.szostak1@proton.me)
 
 ---
 
@@ -25,4 +25,4 @@ high school student & developer from kraków, poland. building clean web apps, i
 ### featured projects & achievements
 
 - 🏆 **AGH "Zobaczyć Matematykę" (2nd Place)** - interactive fractal visualization (Mandelbrot & Julia sets) on HTML5 Canvas in plain JavaScript. ([repo](https://github.com/w3ziqv/geometria-nieskonczonosci) / [live](https://geometria-nieskonczonosci.vercel.app/))
-- ⏱️ **[Focus Flow](https://github.com/w3ziqv/focus-flow)** - minimal Pomodoro timer with ambient soundscapes & zero-drift countdown; offline-first installable PWA. ([live](https://focus-flow-self-ten.vercel.app/))
+- ⏱️ **[Focus Flow](https://github.com/w3ziqv/focus-flow)** - minimal Pomodoro timer with ambient soundscapes & zero-drift countdown; offline-first installable PWA. ([live](focusflow.ink))
